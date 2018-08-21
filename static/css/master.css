@@ -1,8 +1,19 @@
 body {
   background-color: black;
-  font-family: 'EB Garamond', serif;
 }
 
-h1 {
+h2 {
   color: white;
+}
+
+#test1 {
+  font-family: 'Indie Flower', cursive;
+}
+
+#test2 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#test3 {
+  font-family: 'Dancing Script', cursive;
 }
