@@ -12,3 +12,9 @@ h2 {
     padding-top: 350px;
   }
 }
+
+@media (max-width: 600px) {
+  #main-title {
+    padding-top: 100px;
+  }
+}
